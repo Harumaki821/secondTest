@@ -1,0 +1,8 @@
+cd[user]
+	name = t.mushu
+	email = takuma.quruput821@gmail.com
+[core]
+	quotepath = false
+	editor = code --wait
+[init]
+	defaultBranch = main
